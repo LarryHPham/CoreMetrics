@@ -1,6 +1,6 @@
 {
   "name": "CoreMetrics",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CORE METRICS FOR SNT",
   "main": "./core_metrics/core_metrics.js",
   "scripts": {
