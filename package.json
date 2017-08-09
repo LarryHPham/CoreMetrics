@@ -2,7 +2,7 @@
   "name": "CoreMetrics",
   "version": "1.0.0",
   "description": "CORE METRICS FOR SNT",
-  "main": "coremetrics.js",
+  "main": "./core_metrics/core_metrics.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
