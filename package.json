@@ -1,8 +1,8 @@
 {
-  "name": "CoreMetrics",
-  "version": "0.0.3",
+  "name": "core-metrics",
+  "version": "0.0.4",
   "description": "CORE METRICS FOR SNT",
-  "main": "./core_metrics/core_metrics.js",
+  "main": "./js/core-metrics.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,17 +21,8 @@
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-clean": "^0.3.2",
-    "gulp-clean-css": "^2.4.0",
     "gulp-concat": "^2.6.1",
-    "gulp-concat-css": "^2.3.0",
-    "gulp-htmlmin": "^3.0.0",
-    "gulp-include": "^2.3.1",
-    "gulp-js-text-inject": "^1.1.0",
-    "gulp-plumber": "^1.1.0",
-    "gulp-remove-empty-lines": "0.0.8",
     "gulp-rename": "^1.2.2",
-    "gulp-strip-comments": "^2.5.1",
-    "gulp-trimlines": "^1.0.1",
-    "gulp-uglify": "^2.1.2"
+    "gulp-uglify-es": "^0.1.3"
   }
 }
