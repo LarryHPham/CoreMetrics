@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/LarryHPham/CoreMetrics/issues"
   },
-  "homepage": "https://github.com/LarryHPham/CoreMetrics#readme"
+  "homepage": "https://github.com/LarryHPham/CoreMetrics#readme",
+  "devDependencies": {}
 }
