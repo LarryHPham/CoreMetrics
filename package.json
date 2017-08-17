@@ -1,0 +1,19 @@
+{
+  "name": "core-metrics",
+  "version": "0.0.4",
+  "description": "CORE METRICS FOR SNT",
+  "main": "./js/core-metrics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarryHPham/CoreMetrics"
+  },
+  "author": "SNT Media, Inc.",
+  "license": "SEE LICENSE IN LICENSERef",
+  "bugs": {
+    "url": "https://github.com/LarryHPham/CoreMetrics/issues"
+  },
+  "homepage": "https://github.com/LarryHPham/CoreMetrics#readme",
+}
